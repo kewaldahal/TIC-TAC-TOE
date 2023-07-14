@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+  }
+  
+  td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    border: 2px solid blue;
+  }
+  
+  td.circle {
+    color: red;
+  }
+  
+  td.cross {
+    color: green;
+  }
+  
+  body {
+    background-color: black;
+  }
+  
